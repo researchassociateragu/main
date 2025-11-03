@@ -1,0 +1,201 @@
+🧠 FUTRYX WEBSITE CREATION PROMPT
+
+I’m creating a professional website for my company called Futryx.
+Please generate a complete sitemap, layout, and content structure for the site, along with realistic section-by-section text and wireframe ideas.
+
+About the Company
+
+Futryx is an IT and innovation startup that focuses on building smart, practical technology solutions for modern businesses.
+We also nurture new talent — from students to professionals — by involving them in real client work alongside experienced developers.
+
+We aren’t just a training company or internship hub; Futryx is an IT services and software development firm that combines learning, collaboration, and execution under one brand.
+
+What Futryx Does
+
+We work on end-to-end technology projects — from strategy and design to full-stack development.
+Our aim is to help companies grow through reliable digital products while giving emerging tech talent real industry experience under expert supervision.
+
+Core Services
+
+Web Development – business websites, dashboards, and SaaS platforms.
+
+App Development – Android and iOS mobile apps using Flutter or React Native.
+
+Software Development – backend systems, APIs, and automation tools.
+
+Cloud & DevOps – AWS, Azure, GCP setup and optimization.
+
+UI/UX Design – user-centered designs that improve experience and usability.
+
+Tech Consulting – helping startups plan architecture and tech roadmaps.
+
+Business Model
+
+Clients partner with Futryx to get their projects executed by a mix of experienced developers and trained interns.
+
+Interns work under mentorship from professionals to ensure quality delivery.
+
+This structure keeps projects affordable for businesses while maintaining high standards.
+
+Website Goals
+
+Primary Goals
+
+Attract companies that need IT, web, or software solutions.
+
+Present Futryx as a growing and credible startup in the tech industry.
+
+Enable visitors to contact us easily and submit inquiries or partnership requests.
+
+Secondary Goals
+
+Build SEO visibility for IT services.
+
+Showcase talent development initiatives in the future.
+
+Establish Futryx as a trusted tech brand for startups.
+
+Target Audience
+
+Small and medium businesses looking for development partners.
+
+Startups that need technical help at affordable costs.
+
+College students and tech enthusiasts looking for hands-on project work.
+
+Tone & Personality
+
+Clear, modern, confident, and approachable.
+
+No buzzwords or exaggerated claims.
+
+Real, trustworthy, and future-oriented.
+
+Example tone:
+
+“We build real projects with real people. Our focus is on results and growth — for clients and our team.”
+
+Brand Colors
+
+Gradient Purple–Pink: #A020F0 → #FF007F (main color, same as logo)
+
+Deep Charcoal: #0F172A
+
+Off White: #F8FAFC
+
+Cyan Blue: #00CFFD
+
+Light Gray: #E2E8F0
+
+Style: clean, minimal, futuristic.
+
+Pages to Include
+
+Home
+
+Hero section with tagline: “Building Ideas. Empowering Talent.”
+
+Subtext: short summary about Futryx’s IT development and talent-driven model.
+
+Two buttons: Hire Us and Join Futryx.
+
+Sections: About Futryx, Core Services, Why Choose Us, Contact CTA.
+
+About Us
+
+Futryx story and vision.
+
+Mission: bridging innovation and execution.
+
+Explain how professionals and interns work together on real projects.
+
+Culture: learning, collaboration, delivery.
+
+Services
+
+Web Development
+
+App Development
+
+Software Development
+
+Cloud & DevOps
+
+UI/UX Design
+
+Tech Consulting
+
+Each service with short description and a “Request Quote” button.
+
+Join Futryx (Careers / Internship)
+
+Section explaining that Futryx welcomes both students and experienced professionals.
+
+Describe the kind of work environment — hands-on, collaborative, growth-focused.
+
+Include a form with fields:
+
+Name
+
+Email
+
+Phone
+
+Role (Intern / Developer / Designer / Other)
+
+Resume upload (optional)
+
+Message / Reason to join
+
+When the form is submitted:
+
+It should send a confirmation email to the applicant.
+
+The submission should go to my company email inbox.
+
+The data should automatically be saved into an Excel sheet (Google Sheets or downloadable file).
+
+Contact Us
+
+Short paragraph: “Let’s build something real.”
+
+Contact form (Name, Email, Message).
+
+Company email, phone, and social links.
+
+Optional map section.
+
+(Future pages)
+
+Projects / Portfolio
+
+Blog
+
+Team
+
+Technical Setup
+
+The site should be exportable and hosted for free on GitHub Pages (static HTML/CSS).
+
+Contact and Join forms must connect to email and Google Sheets using free tools like FormSubmit, Formspree, or Google Forms integration.
+
+Design should be mobile responsive and easy to update.
+
+Deliverables to Generate
+
+Sitemap
+
+Page-wise wireframe and layout structure
+
+Realistic sample text content for each section
+
+CTA suggestions and form flow
+
+Instructions to connect forms with email + Excel Sheet
+
+Suggestions to optimize for SEO
+
+Summary
+
+Create a complete professional website plan and content draft for Futryx, a startup offering IT services, app development, and cloud solutions — built by a mix of experienced professionals and interns.
+The goal: make the brand look modern, credible, and growth-focused, with functional contact and recruitment forms.
